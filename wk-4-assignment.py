@@ -1,10 +1,4 @@
  # File Handling and Exception Handling Assignment
-# Author: Your Name
-# Date: YYYY-MM-DD
-
-# ------------------------------
-# Custom Exception
-# ------------------------------
 
 class EmptyFileError(Exception):
     """Raised when the file is empty."""
